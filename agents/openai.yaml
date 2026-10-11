@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行人像 A/B/C 专业审片"
+  short_description: "逐张审片分档、醒图修图教程、Word 摄影复盘"
+  default_prompt: "请使用 $portrait-photo-curator 审核我指定文件夹中的旅行人像，严格分为 A/B/C 三档，生成 A 档优点复盘和 B 档醒图逐步修图 Word 报告，原始照片只复制不修改。"

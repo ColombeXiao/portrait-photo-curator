@@ -1,0 +1,4 @@
+Pillow>=10.2,<13
+python-docx>=1.1,<2
+# HEIC/HEIF optional: python3 -m pip install pillow-heif
+# Camera RAW optional: python3 -m pip install rawpy
